@@ -1,0 +1,11 @@
+.git
+.github
+node_modules
+storage/app/private
+storage/app/public
+storage/framework
+storage/logs
+tests
+.env
+.env.*
+!.env.example
